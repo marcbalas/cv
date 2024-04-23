@@ -1,7 +1,7 @@
 # Marc Balas
 *10.01.1981 in LYON, France*
 
-### Senior Engineer & Software Architect
+### Senior iOS Developper & Software Engineer
 ---
 **Location:** BERLIN, Germany
 
@@ -11,45 +11,54 @@
 
 ---
 
-A seasoned freelancer with a decade of experience in software engineering, specializing in advanced computational paradigms and machine intelligence. Acquired the Professional Certificate in TensorFlow from DeepLearning.AI. Pursuing career convergence in ML and software development to augment my expertise. Engages in ecological conservation, creative arts, and interactive game development as multifaceted side endeavors.
+A seasoned freelancer with a decade of experience in software engineering.
+During the last 10 years as freelance, I enjoyed learning various languages and tools for new projects and clients.
+I am now looking to join a team and a company whose values I share.
 
 ## Employment
 
 **09.2022 - 06.2024**  
 **Doktor.de / Senior iOS Engineer**
-- Architected robust iOS telemedicine platform, adhering to German digital health regulations.
+- Modular iOS telemedicine platform for the German digital healthsystem.
+- Including SwiftUI, combine, github CI
 
 **03.2021 - 09.2022**  
 **newsenselab / Senior iOS Engineer**
-- Spearheaded the development of an acclaimed headache management iOS application, DIGA-certified.
-- Engineered bespoke GitLab CI/CD pipelines.
-- Implemented cross-platform solutions with Node.js and Electron for dynamic iOS content management.
+- development of an headache management iOS application, DIGA-certified.
+- Self hosted GitLab CI/CD pipelines.
+- Implemented cross-platform solutions with Node.js, Docker for dynamic iOS content management.
 
 **01.2009 - 03.2007**  
 **fdj.com / Java Developer**
-- Developed secure, scalable solutions for online betting in a high-stakes J2EE, ORACLE, TOMCAT ecosystem.
+- Developed secure, scalable solutions for online betting
+- J2EE, ORACLE, TOMCAT ecosystem.
 
 ## Freelance
 
 **2020 - 03.2018**  
 **mbox / Lead iOS Developer**
-- Developed interactive multimedia applications for diverse venues, employing Unity, VR, and reactive programming.
+- Developed interactive multimedia applications for diverse venues
+- Unity, various VR devices, redis
 
 **Spring 2019**  
 **Botanical Garden of Vauville / Multiplatform App Developer**
 - Innovated an inclusive navigation guide app for visually and hearing-impaired individuals.
+- Android and iOS applications 
 
 **Present - 09.2011**  
 **Nealis Nouvel Obs / iOS Lead Developer**
-- Curated a suite of iOS educational apps, ensuring linguistic diversity and accessibility via SQLite.
+- Curated a suite of iOS educational apps,
+- objectiveC, swift, fastlane, SQLite.
 
 **2011 & 2015**  
 **Everteam / iOS Team Developer**
-- Delivered enterprise iOS solutions, optimizing collaboration and productivity through RESTful APIs and document control.
+- Delivered enterprise iOS iPad solutions
+- collaboration and productivity through RESTful APIs and document control.
 
 **04.2015 - 03.2014**  
 **Sopilabs / iOS Lead Developer**
-- Pioneered social networking applications, leveraging FB API, Parse, and Node.js for social engagement.
+- Pioneered social networking iOS applications
+- Swift, Parse(Meta Saas)
 
 **06.2011 - 01.2009**  
 **Web Developer & Designer**
